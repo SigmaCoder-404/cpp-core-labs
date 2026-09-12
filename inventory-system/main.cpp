@@ -119,7 +119,7 @@ int main()
 
 
      removeNullQuantities(inventory);
-    std::cout << "Total inventory value: " << "₦" << totalInventoryValue(inventory);
+    std::cout << "Total inventory value: " << "$" << totalInventoryValue(inventory);
 
 
 
